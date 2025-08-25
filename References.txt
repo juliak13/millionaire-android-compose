@@ -1,0 +1,28 @@
+Project 2: Who Wants to be a Millionaire? 
+Julia Konopka 
+
+For my second attempt, I did not use the XML, I used the Jetpack Compose. 
+I created a whole new project and started fresh. 
+
+I referenced the previous homeworks and projects for layouts and page navigation like LunchTray App and UserActivity (Project1), along with the additional examples from Android Developer. 
+
+I did use AI for assistance with small erros and debugging but mainly focused on using my own knowledge and previous assignments from the semester, as I should have the first time to complete the project. 
+
+In the upload I included two mp4s like the last submission for the win and lose endings, along with screenshots of the main screen and code. 
+
+I kept majority of the same question and kept the images that I used previously. 
+Found and changed some of the questions with ones I found on this site:
+https://parade.com/1161189/alexandra-hurtado/star-wars-trivia/
+
+Added the Icon, to the assests to make the app logo:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fstar-wars&psig=AOvVaw2egdy9b5DOGINIFzJdXBV8&ust=1745788986472000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID2x_rQ9owDFQAAAAAdAAAAABAR
+
+Splash Screen: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-ptlui&psig=AOvVaw2QyIQ4pduXie4BC6kx1Aqd&ust=1745780678570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjEpvux9owDFQAAAAAdAAAAABAE
+
+and added the additional words using Canva. 
+
+Background Image:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fca.pinterest.com%2Fpin%2F824581012994021169%2F&psig=AOvVaw3UZ4jXJLW-buTmxHfvlkYW&ust=1745788965364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiK08rR9owDFQAAAAAdAAAAABAE
+
+For the font, I downloaded Star Jedi from dafont.com
+https://www.dafont.com/star-jedi.font
