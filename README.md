@@ -12,10 +12,10 @@ and try to reach the top prize.
 - User-Friend interface
 
 ## Screenshots 
-![Home Screen](screenshots/Start.png)
-![Question Screen](screenshots/Question1Example.pgn)
-![Win Screen](screenshots/Win.png)
-![Lose Screen](screenshots/Wrong.png)
+![Home Screen](screenshots/app/Start.png)
+![Question Screen](screenshots/app/Question1Example.pgn)
+![Win Screen](screenshots/app/Win.png)
+![Lose Screen](screenshots/app/Wrong.png)
 
 
 ## Notes
